@@ -3,15 +3,27 @@ v1 bot!
 https://discord.gg/PTv9sBTNK5
 
 [.help] to show all of the commands
+
 [.password] (length) to generate a random password
+
 [.stream] to make your activity streaming
+
 [.cf] flips a coin
+
 [.namemc] (name) search namemc
+
 [.renameserver] (name) changes the name of the server
+
 [.renamechannel] (name) changes the name of the channel
+
 [.spam] (amount) (message) spams a message
+
 [.purge] (amount) clears messages
+
 [.ghostping] (user) ghost pings a user
+
 [.discord] sends the discord server
+
 [.massmention] (amount of messages) (delay between messages) tries to mention everyone in a discord server
+
 [.cls] clears the console screen
