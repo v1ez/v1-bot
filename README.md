@@ -4,7 +4,7 @@ v1 bot!
 https://discord.gg/PTv9sBTNK5
 
 
-LIST OF COMMANDS:
+LIST OF COMMANDS: 
 
 [.help] to see this command
 [.password] (length) to generate a random password
