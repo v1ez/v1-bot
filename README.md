@@ -3,7 +3,7 @@
 <br />
   
 > ### How To Use
-> 1. Download the Source Code.zip file
+> 1. Download the Source Code.zip file on the latest release
 > 2. Extract it and put your token in the config.json
 > 3. Run v1 bot
   
