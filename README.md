@@ -1,45 +1,54 @@
-v1 bot!
+# v1 bot
+   
+<br />
+  
+> ### How To Use
+> 1. Download the v1 bot.zip file
+> 2. Extract it and put your token in the config.json
+> 3. Run v1 bot
+  
+<br />
 
-![480c03e4c3351463c7](https://user-images.githubusercontent.com/106450011/171129882-756e937f-6a09-46bf-88ca-cd6e25c54076.png)
-https://discord.gg/PTv9sBTNK5
+> # List Of Commands
 
+> [.help] to see this command
 
-LIST OF COMMANDS:
+> [.password] (length) to generate a random password
 
-[.help] to see this command
+> [.cf] flips a coin
 
-[.password] (length) to generate a random password
+> [.renameserver] (name) changes the name of the server
 
-[.cf] flips a coin
+> [.renamechannel] (name) changes the name of the channel
 
-[.namemc] (name) search namemc
+> [.spam] (amount) (delay) (message) spams a message
 
-[.renameserver] (name) changes the name of the server
+> [.purge] (amount) clears messages
 
-[.renamechannel] (name) changes the name of the channel
+> [.ghostping] (user) ghost pings a user
 
-[.spam] (amount) (delay) (message) spams a message
+> [.iq] (user) shows the users iq
 
-[.purge] (amount) clears messages
+> [.triggertyping] (True/False) makes it look like you're typing
 
-[.ghostping] (user) ghost pings a user
+> [.animate] (message) edits a message to animate it
 
-[.animate] (message) edits a message to animate it
+> [.ghosteveryone] (cover message) ghost ping everyone
 
-[.ghosteveryone] (cover message) ghost ping everyone
+> [.automee6] (channel id) grinds MEE6 levels
 
-[.automee6] (channel id) grinds MEE6 levels
+> [.serverdelete] deletes a server
 
-[.serverdelete] deletes a server
+> [.servernuke] nukes a server
 
-[.servernuke] nukes a server
+> [.serverinfo] the amount of members in a server
 
-[.membercount] the amount of members in a server
+> [.userinfo] (user) shows info about a user
 
-[.theme] changes the theme
+> [.theme] changes the theme
 
-[.webnuke] (amount) (webhook url) destroys the webhook
+> [.webnuke] (amount) (webhook url) destroys the webhook
 
-[.massmention] (amount of messages) (delay between message)
+> [.massmention] (amount of messages) (delay between message)
 
-[.cls] clears the console screen
+> [.cls] clears the console screen
