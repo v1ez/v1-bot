@@ -52,3 +52,5 @@
 > [.massmention] (amount of messages) (delay between message)
 
 > [.cls] clears the console screen
+
+![y6x45fat6qyedznxp9](https://user-images.githubusercontent.com/106450011/185611793-376b3116-0b8a-472b-b602-961bf5d2e164.png)
