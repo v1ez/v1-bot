@@ -12,9 +12,27 @@
 <br />
 
 > ### List Of Commands 
-> 1. d
-> 2. d
-> 3. d
+> 1. [.help]
+> 2. [.password]
+> 3. [.cf]
+> 4. [.renameserver]
+> 5. [.renamechannel]
+> 6. [.spam]
+> 7. [.purge]
+> 8. [.ghostping]
+> 9. [.iq]
+> 10. [.triggertyping]
+> 11. [.animate]
+> 12. [.ghosteveryone]
+> 13. [.automee6]
+> 14. [.serverdelete]
+> 15. [.servernuke]
+> 16. [.serverinfo]
+> 17. [.userinfo]
+> 18. [.theme]
+> 19. [.webnuke]
+> 20. [.massmention]
+> 21. [.cls]
 
 <br />
 
