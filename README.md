@@ -1,15 +1,9 @@
 # v1 bot
-
-<br />
   
 > ## How To Use
 > 1. Download the Source Code.zip file on the latest release
 > 2. Extract it and put your token in the config.json
 > 3. Run v1 bot
-
-<br />
-
-<br />
 
 > ## List Of Commands 
 > 1. [.help]
@@ -33,8 +27,6 @@
 > 19. [.webnuke]
 > 20. [.massmention]
 > 21. [.cls]
-
-<br />
 
 [Discord Server](https://discord.gg/PTv9sBTNK5)
 
