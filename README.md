@@ -7,7 +7,7 @@
 
 > ## List Of Commands 
 > 1. [.help]
-> 2. [.password]
+> * [.password]
 > 3. [.cf]
 > 4. [.renameserver]
 > 5. [.renamechannel]
