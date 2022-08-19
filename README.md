@@ -1,5 +1,7 @@
 # v1 bot
-   
+
+[Discord Server](https://discord.gg/PTv9sBTNK5)
+
 <br />
   
 > ## How To Use
