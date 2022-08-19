@@ -1,11 +1,11 @@
 # v1 bot
-  
+
+Make sure to join the [Discord Server](https://discord.gg/PTv9sBTNK5)
+
 ## How To Use
 1. Download the Source Code.zip file on the latest release
 2. Extract it and put your token in the config.json
 3. Run v1 bot
-
-Make sure to join the [Discord Server](https://discord.gg/PTv9sBTNK5)
 
 ## List Of Commands 
 * [.help]
