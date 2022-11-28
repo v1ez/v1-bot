@@ -1,6 +1,6 @@
 # v1 bot
 
-Make sure to join the [Discord Server](https://discord.gg/n4m8TTXUcA)
+Make sure to join the [Discord Server](https://discord.gg/9eQtzxy29k)
 
 ## How To Use
 1. Download the Source Code.zip file on the latest release
